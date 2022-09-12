@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @6ixxxxx
-- 👀 I’m interested in building
-- 🌱 I’m currently learning frontending
-- 💞️ I’m looking to collaborate on saas projects
+- 👋 Hi, I’m Francis Onyenwe, You can call me 6ixxxxx
+- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Welcome+to+my+github;I+am+a+Frontend+Developer,;and+Aspiring+Full-Stack+Developer.;Nice+to+meet+you!...)](https://git.io/typing-svg)
+
+- 🔭  I am a Frontend Web Developer with experience using a variety of programming languages
+- 🌱 I’m currently working as a frontend developer at.. (inserts your company name *winks ).
+- 🤔 I’m looking out for Paid internships and entry level roles (Frontend).
+- 👯 I’m looking to collaborate on Web Projects (Frontend and Backend)
+- 💬 Ask me about web development
 - 📫 How to reach me francistrix@gmail.com
 
 <!---
